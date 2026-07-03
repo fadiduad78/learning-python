@@ -1,0 +1,9 @@
+01
+fahad
+1200.0
+02
+ahad
+2400.0
+03
+abdul rehman
+5000.0
